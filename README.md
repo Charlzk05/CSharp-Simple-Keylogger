@@ -2,6 +2,9 @@
 A Simple CSharp program that logs user key inputs
 - Your keylogs will be written in a ``.txt`` file with the ``month-date-year`` today name
 
+### Requirements
+- .NET FRAMEWORK 4.8
+
 ### Full Tutorial by Progrmaming Professor
 - [Part 1](https://www.youtube.com/watch?v=j0sxcsxXJkY)
 - [Part 2](https://www.youtube.com/watch?v=Uu0DEnao8F0)
